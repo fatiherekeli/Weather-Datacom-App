@@ -1,0 +1,9 @@
+Şehir: Istanbul
+Hava Durumu: Bugün hava güneşli, sıcaklık 25°C.
+-------------------------
+Şehir: Ankara
+Hava Durumu: Bugün hava yağmurlu, sıcaklık 18°C.
+-------------------------
+Şehir: Izmir
+Hava Durumu: Bugün hava rüzgarlı, sıcaklık 22°C.
+-------------------------
